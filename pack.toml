@@ -1,0 +1,13 @@
+name = "ZombieAirship"
+author = "aboka"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e160ef55bbf02710e56848f4f3bc86717f1423ac9fc56f4145b06d906087ab7"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.20.1"

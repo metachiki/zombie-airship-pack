@@ -1,0 +1,13 @@
+name = "VLib"
+filename = "vlib-1.20.1-0.1.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1UmcEMX/versions/3grlU3LG/vlib-1.20.1-0.1.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "8ac35baab2307b68ced29f204b91d9ef458954078d2e9da2b6493ca6a1900d1e6ffe15c845feed039346c73ff1e2cb7751b641c7e10649d0fc96b806f48e1aa0"
+
+[update]
+[update.modrinth]
+mod-id = "V1UmcEMX"
+version = "3grlU3LG"
