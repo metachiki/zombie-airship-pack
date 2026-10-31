@@ -266,11 +266,6 @@ hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "8b6a62bcfada4b99ee93bd1048759e6a607ec18f5c98bec73f08a8fdc6729469"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
 metafile = true
@@ -458,11 +453,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
