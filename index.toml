@@ -576,11 +576,6 @@ hash = "a63635f4d4f8a64e48f1ebf94ea21831e397492743595b3b178c6156ad9ed213"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-maps-x-waystones.pw.toml"
-hash = "fcee94d94a8236db6f2f190f971a23de14e3d3dcaaced51bb17c6aed124a80bc"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "5929e360b40629f50a3a816ad890e33f032058d2494f7aa044ec8f4ba6d6269b"
 metafile = true
