@@ -1,0 +1,13 @@
+name = "Vic's Point Blank"
+filename = "pointblank-fabric-1.20.1-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/og4KPYmA/versions/YSzjIQd7/pointblank-fabric-1.20.1-1.11.1.jar"
+hash-format = "sha512"
+hash = "77dda5cb0c9c82e81f025cdd8255314d8d1416ed1d7292cc1958cd598cf6da415841cafe3313a7feb9457631095214dd03bf1ad9d29283c14e66f8b45ea9ad3c"
+
+[update]
+[update.modrinth]
+mod-id = "og4KPYmA"
+version = "YSzjIQd7"

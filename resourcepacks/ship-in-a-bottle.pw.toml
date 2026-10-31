@@ -1,0 +1,13 @@
+name = "Ship in a bottle"
+filename = "ship-in-a-bottle_by-mr._gummy_v1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JmdZ2M5n/versions/ltysf6GJ/ship-in-a-bottle_by-mr._gummy_v1.2.zip"
+hash-format = "sha512"
+hash = "3a2608b6810e81c1fb06a2c5e832543762327a0fdee2a2f7a2934475d2003b60111d1e6654a9e3ea028d30875dea8a18ea3fc887fa4893b46feb98c2729d8aa4"
+
+[update]
+[update.modrinth]
+mod-id = "JmdZ2M5n"
+version = "ltysf6GJ"
