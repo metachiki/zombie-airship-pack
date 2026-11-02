@@ -46,11 +46,6 @@ hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
 
 [[files]]
-file = "mods/big-globe.pw.toml"
-hash = "5fcf1e864d4226e763d4b1d87cf33cf23dc9243df64e26e4afa87d71ec8d9650"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "1be24723e76bf81496ee7c64f32813f2e6c0ec144ef4eeaa235d267068a1e1e8"
 metafile = true
@@ -511,8 +506,8 @@ hash = "23e119c5160361adbe51bc7e6829585954fab5a2076674a5ec830c6862bd1993"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "ce8868bbecfc78d470fe88663e4128751a4282968adaa5e5676544ecabab6355"
+file = "mods/the-lost-cities-fabric.pw.toml"
+hash = "7c226d5b686801ef6be047ec65e7ec7e6473182a1b980def08a274d2acc4610d"
 metafile = true
 
 [[files]]
