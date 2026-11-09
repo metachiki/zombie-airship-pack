@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "2b19c5c38f88285aed2aad6a61eb622003540ee5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/GpUlMGON/entityculling-forge-1.9.4-mc1.20.1.jar"
 
 [update]
-[update.curseforge]
-file-id = 7313354
-project-id = 448233
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "GpUlMGON"

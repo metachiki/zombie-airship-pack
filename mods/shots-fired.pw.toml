@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "f5ba631f02cd9df539417b0be4393a81e00ed0e0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gwCtyRjo/versions/VMWLdrAh/shotsfired-1.20.1-0.2.2.jar"
 
 [update]
-[update.curseforge]
-file-id = 7257693
-project-id = 1185268
+[update.modrinth]
+mod-id = "gwCtyRjo"
+version = "VMWLdrAh"

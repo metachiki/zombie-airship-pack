@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "db4a84db628dd668e08898e42e881615d34f0629"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/mMc55fB1/GPUTape-1.18x-1.21x-1.0.5.1.jar"
 
 [update]
-[update.curseforge]
-file-id = 6200071
-project-id = 1201803
+[update.modrinth]
+mod-id = "5CTSrY8X"
+version = "mMc55fB1"
