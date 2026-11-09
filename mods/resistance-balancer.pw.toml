@@ -1,0 +1,13 @@
+name = "Resistance Balancer (Modpack Utils Series)"
+filename = "ResistanceBalancer-(NEO)FORGE-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27b3324e87e6609ebcca72657ddd3f6f8b776ec1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5810495
+project-id = 1121234

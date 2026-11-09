@@ -1,0 +1,13 @@
+name = "Lost Radar"
+filename = "lostradar-1.20-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46900d579674ff8a308f4d21a62dd41de226cac2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7288294
+project-id = 1274451

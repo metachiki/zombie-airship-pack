@@ -1,0 +1,13 @@
+name = "Merge Enchantments"
+filename = "MergeEnchantments-FORGE-1.20.[0-4]-v4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc6066f3c94c42d73c00b6a9ee501c58fb760051"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7081711
+project-id = 627101

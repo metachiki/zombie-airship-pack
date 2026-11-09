@@ -1,0 +1,13 @@
+name = "DCTweaks"
+filename = "DCTweaks_5.10.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec74b5e1429a28b9a2fec5d5fc39967b09efca78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7411025
+project-id = 1400238

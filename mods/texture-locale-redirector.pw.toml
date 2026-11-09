@@ -1,0 +1,13 @@
+name = "Texture Locale Redirector"
+filename = "Texture-Locale-Redirector-forge-1.20.1+1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f730278da646563718b3830606a58539f2a8b60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7406348
+project-id = 1323738

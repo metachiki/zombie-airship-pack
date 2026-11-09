@@ -1,0 +1,13 @@
+name = "EmbellishCraft"
+filename = "embellishcraft-1.20.1-7.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d3ec70b9b2f94536e2354c08be5424c8a49c494"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5826539
+project-id = 317094

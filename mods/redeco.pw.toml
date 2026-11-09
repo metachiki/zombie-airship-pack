@@ -1,0 +1,13 @@
+name = "Re:Deco - Vanilla Furniture"
+filename = "redeco-1.14.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "edbdd3ecfacb8bec82cb42878e3999582c3bd53d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6223817
+project-id = 897377

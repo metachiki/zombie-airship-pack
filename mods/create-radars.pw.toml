@@ -1,0 +1,13 @@
+name = "Create: Radars"
+filename = "Radars 0.3.5.1-Create6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb57f69b908377d00bbdad76dd0dfcd3f35f3c9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7334729
+project-id = 1152836

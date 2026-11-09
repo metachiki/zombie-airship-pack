@@ -1,0 +1,13 @@
+# Generated Minecraft files; track Packwiz metadata instead.
+mods/*.jar
+mods/*.jar.disabled
+mods/*.jar.old
+
+# Packwiz installer artifacts and local state.
+packwiz-installer-bootstrap.jar
+packwiz-installer.jar
+.packwiz-cache/
+
+# Editor and operating-system files.
+.DS_Store
+Thumbs.db

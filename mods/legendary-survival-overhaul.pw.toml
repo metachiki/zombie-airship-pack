@@ -1,0 +1,13 @@
+name = "Legendary Survival Overhaul"
+filename = "legendarysurvivaloverhaul-1.20.1-2.3.23.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0b73d7557cf24d26fefe229ab62d3bbde7bae31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7037397
+project-id = 840254

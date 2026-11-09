@@ -1,0 +1,13 @@
+name = "The Sound of Rain"
+filename = "soundofrain-0.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c04c43996d738c35c94cc103fbc9091566c06900"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7171572
+project-id = 1302230

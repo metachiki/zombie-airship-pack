@@ -1,0 +1,13 @@
+name = "Shots Fired"
+filename = "shotsfired-1.20.1-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5ba631f02cd9df539417b0be4393a81e00ed0e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7257693
+project-id = 1185268

@@ -1,0 +1,13 @@
+name = "DragN's VV: Refueled"
+filename = "refueled-1.20.1-2.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "754997608e174ab79bce0c3a181395a274fa38d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6988874
+project-id = 1144170

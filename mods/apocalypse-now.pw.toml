@@ -1,0 +1,13 @@
+name = "Apocalypse Now - Post Apocalyptic Arsenal "
+filename = "apocalypsenow-3.0.4NS-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09fa8fa4fbc24c22fe85f0de2c15ba8707116f0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6023356
+project-id = 448410

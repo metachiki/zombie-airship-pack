@@ -1,0 +1,13 @@
+name = "Refined Storage (Fixes) Mixin"
+filename = "MCT-RS-Mixin-1.20.1-1.0.0-b400-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5fcaa67c9e00c78293fc718716f630e8d561ad7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7544101
+project-id = 1431536

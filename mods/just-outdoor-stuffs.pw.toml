@@ -1,0 +1,13 @@
+name = "Just Outdoor Stuffs"
+filename = "JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e628b555ed05a71dc92ec6e24056661188f89cfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4693390
+project-id = 896219

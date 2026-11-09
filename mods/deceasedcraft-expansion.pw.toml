@@ -1,0 +1,13 @@
+name = "DeceasedCraft++"
+filename = "deceased_expansion-1.10-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a4ba399984213160a97616412c658065043246e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7401678
+project-id = 1315786

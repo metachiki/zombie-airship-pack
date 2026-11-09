@@ -1,13 +1,13 @@
-name = "ZombieAirship"
-author = "aboka"
+name = "Zombie Airship Pack"
+author = "meta"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4fe3d84c8b395aad5b17115f721afe648ab7b31765c9e49dff2f6e86c953ac4b"
+hash = "081c02c9d42ff4d06e68346872701e27105764b8372c5142fe5942d943905bcf"
 
 [versions]
-fabric = "0.20.1"
+forge = "47.4.29"
 minecraft = "1.20.1"

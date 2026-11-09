@@ -1,0 +1,13 @@
+name = "YTonGame"
+filename = "ytongame_hostingmenu-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20c7062a536da1c9674bb6206b5c00b28641a157"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7399243
+project-id = 1414942

@@ -1,0 +1,13 @@
+name = "Spawner Control"
+filename = "SpawnerControl-forge-1.20.[1-4]-v1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3756f5232f74189a5fcb4f62086055200092a5c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6379545
+project-id = 1109365
