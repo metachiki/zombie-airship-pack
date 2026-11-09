@@ -1,0 +1,13 @@
+name = "Xaero's Maps: Multiplayer+"
+filename = "xmmp-1.2.4+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "5678f2ac8ee86fa4eef82ce66c09fec5f0ccb418973129d463878a755caf524bbffa2b4439bcae6c25ee5d81278e2d955a637ecca80aa94ab97f1f0a9a6280c7"
+url = "https://cdn.modrinth.com/data/stTaMuWa/versions/MJNQi4lm/xmmp-1.2.4%2B1.20.1-forge.jar"
+
+[update]
+[update.modrinth]
+mod-id = "stTaMuWa"
+version = "MJNQi4lm"

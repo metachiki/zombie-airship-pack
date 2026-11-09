@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "4824edb39033d44cbacbb9d4189e3a29009347f2ea52fa8a06572bd2f9afee54"
+hash = "debeabb1715f46c7e0f2100d579fef9c063e501ad386725c9cc3e05f003b36c4"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "27c658b82feb3e51c605087c7f6b4a49f19dd906aa6664a70b6e914b8f7979cd"
 metafile = true
 
 [[files]]
@@ -1485,13 +1485,18 @@ hash = "72add18c6ba203c324302633ebdafdc2662b14aa4c50483e6f94eefe55620721"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-maps-multiplayer-plus.pw.toml"
+hash = "c337bde63e232bbf0fd8d6c0a24021df22613534502936c089bc93bb7530cdae"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "eb48e8709268d9d4daeaba8d8844fa47e4e42fe2c6767ab39eca10e7852abf1e"
+hash = "a4671db09d261e2bb14518010d60c7bc1dd8dc51b76c406bad4b644017d8a86b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8c1d85564af53d61caf23b502b60c494d33450a670093fdd3e2f412368682ecc"
+hash = "a788e6aea180ace2ef92aad48380d7b8323721a0ba00006c234471593a717ae2"
 metafile = true
 
 [[files]]

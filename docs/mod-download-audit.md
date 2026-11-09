@@ -82,6 +82,8 @@ Forge 47.4.29 / Minecraft 1.20.1は各条件に含まれる。Bee FixはModrinth
 
 ローカルの全体ハッシュ検証（Python 3.11以上）:
 
+以下はコミット `71032ac` 時点の監査再現用。後続の地図共有MOD追加後は、[地図共有の検証手順](xaero-map-sharing.md#検証)を使用する。
+
 ```powershell
 packwiz refresh
 python scripts/verify_official_downloads.py
