@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "e9db8df6d62eedbd49ef0c03cb9d6f71f909be67"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AWRXGq2t/versions/3ZLqbGsf/immersivefixes-1.0.3-all.jar"
 
 [update]
-[update.curseforge]
-file-id = 7119124
-project-id = 1326199
+[update.modrinth]
+mod-id = "AWRXGq2t"
+version = "3ZLqbGsf"

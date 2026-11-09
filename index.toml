@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "1e0fdb1eb1e5dac84d8ebcb6cd692dbe522cb8076566b4dbfd41d613de135e02"
+hash = "4824edb39033d44cbacbb9d4189e3a29009347f2ea52fa8a06572bd2f9afee54"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/builders-delight-forge.pw.toml"
-hash = "e2dcd2b805038ed6599801440c96cc1d0af19347968793c9e0e8225789ad9f78"
+hash = "2ecb4a1e848c5f01af2538f11edbb708e283c171f307bcfc63f87e99ffe34c05"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "405c6f9447f29e70146c7c75bd968c91091afb692513473b7454aedaeea12f20"
+hash = "d968da81646e4e6d43ee5abfbf03c685e4368e36511c8fe88d03a88131ea2748"
 metafile = true
 
 [[files]]
@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "3519d01e4490de15f682c67333b67bd4b7057ba25937d9aaa517c76854f73ef7"
+hash = "44a9b13430ee845cf22b717c1cc744ffd3c111fdbed5a82025409bc62b60819d"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-fixes.pw.toml"
-hash = "20c92a04cd424ae11964dd5275a110411408c10157c2b43f3577b089485c6e93"
+hash = "a22344251870b8e5405537e012e1d6e829025b42b4e9bfa1176b211899ed6a19"
 metafile = true
 
 [[files]]
@@ -936,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-refined-storage-mixin.pw.toml"
-hash = "96b39bf24579cb895b25e2aeecd890d6a735117623f26322908d37a4bf25294f"
+hash = "ef03dad897aab26d4782ad84149f3bbd99433e777a3d442831240d4c7c652e8a"
 metafile = true
 
 [[files]]
@@ -1096,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie-buddies.pw.toml"
-hash = "619d340633b9ca2bae10d5aae4068a67f91f6cc481bbc723f9db8ba74befd9c7"
+hash = "64cf5e1d439c9b6ffe007087b80be1c59b567058ffc0f1bb37f3e24464d08cb7"
 metafile = true
 
 [[files]]
@@ -1231,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/shots-fired.pw.toml"
-hash = "e6cd019d75380e6137a3d6eafe9d4276ac2004de15cef6bbdba71fb2e40f3d2c"
+hash = "4c434410fb8c1b6c09d952e762e5b079b2613cdf9d88413c9415132a968231f4"
 metafile = true
 
 [[files]]

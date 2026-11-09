@@ -1,0 +1,10 @@
+# Review and verification files are not installed into Minecraft instances.
+docs/
+scripts/
+
+# These existing definitions were not in the original Forge index. Keep them
+# on disk without enabling unrelated resource/shader packs during refresh.
+resourcepacks/moonsu-better-gui-create-style-for-travelers-backpack.pw.toml
+resourcepacks/ship-in-a-bottle.pw.toml
+resourcepacks/xearo-zh-cn.pw.toml
+shaderpacks/complementary-unbound.pw.toml

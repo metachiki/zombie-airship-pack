@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "e5fcaa67c9e00c78293fc718716f630e8d561ad7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OHdWexoI/versions/34zUr1lG/MCT-RS-Mixin-1.20.1-1.0.0-b400-release.jar"
 
 [update]
-[update.curseforge]
-file-id = 7544101
-project-id = 1431536
+[update.modrinth]
+mod-id = "OHdWexoI"
+version = "34zUr1lG"
