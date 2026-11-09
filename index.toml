@@ -840,11 +840,6 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
-file = "mods/lazyyyyy.pw.toml"
-hash = "cf9493fe34868f40e6b2e6f2b50842c3e1999d00695855af80ecfa763b6a1ba4"
-metafile = true
-
-[[files]]
 file = "mods/legendary-survival-overhaul.pw.toml"
 hash = "b21cf9293b091d854ee7f17eb1aadfa5571ccf9745cadb9e48022c6dcdd44ef7"
 metafile = true
